@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/language-C-blue.svg" alt="Language C">
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg" alt="Platform">
-  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License MIT">
 </p>
 
 <hr>
