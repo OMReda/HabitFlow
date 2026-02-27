@@ -1,0 +1,9 @@
+--- Habits ---
+ID,Name,CurrentStreak,LongestStreak,TotalCompletions
+1,"Workout 30 min",1,1,1
+2,"Read 20 pages",0,0,0
+3,"Edited Habit 3",0,0,0
+
+--- Logs ---
+HabitID,Date,Completed
+1,2026-02-26,1

@@ -1,0 +1,22 @@
+[
+  {
+    "directory": "C:/Users/r3d4/.gemini/antigravity/scratch/habitflow",
+    "command": "C:/Users/r3d4/scoop/apps/gcc/current/bin/gcc.exe -Wall -Wextra -Iinclude -c src/main.c -o src/main.o",
+    "file": "src/main.c"
+  },
+  {
+    "directory": "C:/Users/r3d4/.gemini/antigravity/scratch/habitflow",
+    "command": "C:/Users/r3d4/scoop/apps/gcc/current/bin/gcc.exe -Wall -Wextra -Iinclude -c src/habit.c -o src/habit.o",
+    "file": "src/habit.c"
+  },
+  {
+    "directory": "C:/Users/r3d4/.gemini/antigravity/scratch/habitflow",
+    "command": "C:/Users/r3d4/scoop/apps/gcc/current/bin/gcc.exe -Wall -Wextra -Iinclude -c src/storage.c -o src/storage.o",
+    "file": "src/storage.c"
+  },
+  {
+    "directory": "C:/Users/r3d4/.gemini/antigravity/scratch/habitflow",
+    "command": "C:/Users/r3d4/scoop/apps/gcc/current/bin/gcc.exe -Wall -Wextra -Iinclude -c src/stats.c -o src/stats.o",
+    "file": "src/stats.c"
+  }
+]
