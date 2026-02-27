@@ -93,4 +93,3 @@ Contributions are always welcome! Whether it's a bug report, a new feature idea,
 
 
 ---
-<p align="center">Made with ❤️ for the terminal</p>
